@@ -1,7 +1,7 @@
 # Chat react and Firebase
 
 Little chat using React and Firebase.
-The authentication i enable with Google account.
+The authentication is enable with Google account.
 
 ## Review
 
